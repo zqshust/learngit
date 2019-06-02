@@ -28,3 +28,8 @@ Now that you have your workspace set up, what do you want to try using Git for?
     Fill in your answer here
 
     I don't change any thing.
+
+    
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
