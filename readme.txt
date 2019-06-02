@@ -6,3 +6,5 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 
 Learning make me happy.
+
+Learning make me happy.
